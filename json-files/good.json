@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Good Omen Centerpiece 1",
+    "size": "36 cms",
+    "rate": "₹450",
+    "image": "centerpiece-1.png",
+    "category": "centerpieces",
+    "whatsapp": "Hi! I'm interested in the Good Omen Centerpiece 1 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Centerpiece 2",
+    "size": "40 cms",
+    "rate": "₹420",
+    "image": "centerpiece-2.png",
+    "category": "centerpieces",
+    "whatsapp": "Hi! I'm interested in the Good Omen Centerpiece 2 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Centerpiece 3",
+    "size": "34 cms",
+    "rate": "₹330",
+    "image": "centerpiece-3.png",
+    "category": "centerpieces",
+    "whatsapp": "Hi! I'm interested in the Good Omen Centerpiece 3 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Keychain",
+    "rate": "₹110",
+    "new": true,
+    "image": "keychain-1.png",
+    "category": "keychains",
+    "whatsapp": "Hi! I'm interested in the Good Omen Keychain from Lucky Creations."
+  },
+  {
+    "name": "Blue Fortune Pearl Earrings",
+    "size": "7 cms",
+    "rate": "₹120",
+    "image": "blue-fortune-pearl.png",
+    "category": "earrings",
+    "whatsapp": "Hi! I'm interested in the Blue Fortune Pearl Earrings (Good Omen) from Lucky Creations."
+  },
+  {
+    "name": "Skyline Earrings",
+    "size": "8 cms",
+    "rate": "₹120",
+    "image": "skyline.png",
+    "category": "earrings",
+    "whatsapp": "Hi! I'm interested in the Skyline Earrings (Good Omen) from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Scrunchie 1",
+    "rate": "₹75",
+    "image": "scrunchie-1.png",
+    "category": "scrunchies",
+    "whatsapp": "Hi! I'm interested in the Good Omen Scrunchie 1 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Scrunchie 2",
+    "rate": "₹80",
+    "image": "scrunchie-2.png",
+    "category": "scrunchies",
+    "whatsapp": "Hi! I'm interested in the Good Omen Scrunchie 2 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Scrunchie 3",
+    "rate": "₹70",
+    "image": "scrunchie-3.png",
+    "category": "scrunchies",
+    "whatsapp": "Hi! I'm interested in the Good Omen Scrunchie 3 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Scrunchie 4",
+    "rate": "₹80",
+    "image": "scrunchie-4.png",
+    "category": "scrunchies",
+    "whatsapp": "Hi! I'm interested in the Good Omen Scrunchie 4 from Lucky Creations."
+  },
+  {
+    "name": "Good Omen Coaster Set (Pack of 2)",
+    "rate": "₹110",
+    "image": "coaster-1.png",
+    "category": "coasters",
+    "whatsapp": "Hi! I'm interested in the Good Omen Coaster Set from Lucky Creations."
+  }
+]
