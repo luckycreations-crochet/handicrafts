@@ -105,9 +105,7 @@ function renderCatalogue(list) {
             .forEach(btn => btn.classList.remove('selected'));
 
           colourDiv.classList.add('selected');
-
-          const newBase = toBase(colour.image);
-
+          
           modalImg.src =
             `https://luckycreations-crochet.github.io/assets/centerpieces/${enc(colour.image)}`;
         });
