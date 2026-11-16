@@ -51,7 +51,6 @@
   {
     "title": "Bookmarks",
     "image": "bookmark-main.png",
-    "new": true,
     "description": "Can't remember the page? Don't worry!",
     "link": "bookmarks.html",
     "class": "bookmarks"
